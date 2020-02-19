@@ -40,17 +40,17 @@ Pada latihan bootstrap aler mempelajari tentang cara membuat peringatan, dengan 
 ![Alt text](https://github.com/arfinadevi28/Bootstrap/blob/master/run/latihan%204.1.PNG)
 ![Alt text](https://github.com/arfinadevi28/Bootstrap/blob/master/run/latihan%204.2.PNG)
 
-Latihan 5 Bootstrap Card
+# Latihan 5 Bootstrap Card
 Pada Latihan bootstrap card mempelajari tentang cara membuat card image dan card text
 ![Alt text](https://github.com/arfinadevi28/Bootstrap/blob/master/run/latihan%205.1.PNG)
 
-Latihan 6 Navigation Bar
+# Latihan 6 Navigation Bar
 Pada Latihan navigation bar mempelajari tentang cara membuat navigasi bar dengan posisi on top dan ber kategori danger serta 
 menambahkan gambar pada posisi kiri atasnya bisa diperbesar tampilannya akan berbeda begitu pula jika diperkecil.
 ![Alt text](https://github.com/arfinadevi28/Bootstrap/blob/master/run/latihan%206.1.PNG)
 ![Alt text](https://github.com/arfinadevi28/Bootstrap/blob/master/latihan%206.2.PNG)
 
-Latihan 7 Bootstrap Slider
+# Latihan 7 Bootstrap Slider
 Pada Latihan bootstrap slider mempelajari tentang cara membuat slideshow dari beberapa gambar yang kita masukkan pada file HTML
 ![Alt text](https://github.com/arfinadevi28/Bootstrap/blob/master/run/latihan%207.1.PNG)
 
@@ -58,7 +58,7 @@ Pada Latihan bootstrap slider mempelajari tentang cara membuat slideshow dari be
 
 ![Alt text](https://github.com/arfinadevi28/Bootstrap/blob/master/run/latihan%207.3.PNG)
 
-Latihan 8 Bootstrap Modal
+# Latihan 8 Bootstrap Modal
 Pada Latihan bootstrap modal mempelajari tentang bagaimana cara membuat tombol responsive dengan nama modal , tombol tersebut 
 terdiri dari tombol danger , info , dan successful sehingga apabila di click maka akan memunculkan informasi sesuai 
 dengan halaman atau content
@@ -66,7 +66,7 @@ dengan halaman atau content
 ![Alt text](https://github.com/arfinadevi28/Bootstrap/blob/master/run/latihan%208.2.PNG)
 ![Alt text](https://github.com/arfinadevi28/Bootstrap/blob/master/run/latihan%208.3.PNG)
 
-Latihan 9 Bootstrap Table
+# Latihan 9 Bootstrap Table
 Pada latihan bootstrap table mempelajari tentang cara membuat berbagai jenis tabel dengan berbagai variasi
 warna , ukuran , dan style pada file HTML
 ![Alt text](https://github.com/arfinadevi28/Bootstrap/blob/master/run/latihan%209.1.PNG)
