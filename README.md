@@ -27,21 +27,21 @@ text dengan berbagai jenis warna pada bootstrap dan berbagai text dengan backrou
 ![Alt text](https://github.com/arfinadevi28/Bootstrap/blob/master/run/latihan%201.1.PNG)
 
 # Latihan 2 Bootstrap Grid
-Pada Latihan bootstrap grid mempelajari mengenai cara membuat grid dengan berbagai warna serta berbagai 
-ukuran yang berbeda dengan berbagai macam warna.
+Pada Latihan bootstrap grid dapat mempelajari mengenai cara membuat grid dengan berbagai jenis warna-warna serta
+berbagai jenis ukuran yang berbeda dengan berbagai macam warna.
 ![Alt text](https://github.com/arfinadevi28/Bootstrap/blob/master/run/latihan%202.1.PNG)
 
 # Latihan 3 Bootstrap Button
-Pada Latihan bootstrap button mempelajari cara membuat berbagai variasi atau model button dan mempelajari cara penataanya
+Pada Latihan bootstrap button mempelajari cara membuat berbagai variasi atau model button dan cara penataanya
 ![Alt text](https://github.com/arfinadevi28/Bootstrap/blob/master/run/latihan%203.1.PNG)
 
 # Latihan 4 Bootstrap Aler
-Pada latihan bootstrap aler mempelajari tentang cara membuat peringatan, dengan berbagai variasi warna dan jenis serta berbagai tipe
+Pada latihan bootstrap aler mempelajari tentang cara membuat jenis peringatan, dengan variasi warna dan jenis serta berbagai tipe
 ![Alt text](https://github.com/arfinadevi28/Bootstrap/blob/master/run/latihan%204.1.PNG)
 ![Alt text](https://github.com/arfinadevi28/Bootstrap/blob/master/run/latihan%204.2.PNG)
 
 # Latihan 5 Bootstrap Card
-Pada Latihan bootstrap card mempelajari tentang cara membuat card image dan card text
+Pada Latihan bootstrap card mempelajari cara membuat card text dan card image
 ![Alt text](https://github.com/arfinadevi28/Bootstrap/blob/master/run/latihan%205.1.PNG)
 
 # Latihan 6 Navigation Bar
@@ -51,7 +51,7 @@ menambahkan gambar pada posisi kiri atasnya bisa diperbesar tampilannya akan ber
 ![Alt text](https://github.com/arfinadevi28/Bootstrap/blob/master/latihan%206.2.PNG)
 
 # Latihan 7 Bootstrap Slider
-Pada Latihan bootstrap slider mempelajari tentang cara membuat slideshow dari beberapa gambar yang kita masukkan pada file HTML
+Pada Latihan bootstrap slider mempelajari tentang cara membuat slideshow dengan menambahkan gambar
 ![Alt text](https://github.com/arfinadevi28/Bootstrap/blob/master/run/latihan%207.1.PNG)
 
 ![Alt text](https://github.com/arfinadevi28/Bootstrap/blob/master/run/latihan%207.2.PNG)
